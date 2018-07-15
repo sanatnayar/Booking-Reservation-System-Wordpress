@@ -6,9 +6,5 @@ using pHp MyAdmin was established and UI was adapted using CSS. This system supp
 connectivity. Helped to Implement Ottawa Sikh Society (OSS) Booking Reservation System.
 
 Languages Used:
--CSS
--HTML
--Javascript 
--pHp
--MySQL
+CSS, HTML, Javascript, pHp, MySQL
 
